@@ -1,0 +1,11 @@
+{
+  "updated": "2026-11-05T02:30:02Z",
+  "uptime_seconds": 308028,
+  "pve_version": "9.2.24",
+  "cpu_cores": 8,
+  "load_1m": 0.00,
+  "mem_total_kb": 16279436,
+  "mem_available_kb": 13580044,
+  "vms": { "running": 0, "total": 0 },
+  "containers": { "running": 0, "total": 0 }
+}
